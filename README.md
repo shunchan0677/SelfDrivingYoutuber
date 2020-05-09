@@ -1,1 +1,3 @@
-# SelfDrivingYoutuber
+# 自動運転Youtuber資料置き場
+
+このレポジトリには自動運転youtuberの動画内で紹介した資料を置いていきます。  
